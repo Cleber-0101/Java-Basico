@@ -11,7 +11,7 @@ public class PrimeiraAula {
 	  	int idade ;
 	  	idade = leitoDeTexto.nextInt();
 	  	
-	  	System.out.println("Idade lida : " + idade + "anos de idade");
+	  	System.out.println("Idade lida : " + idade);
 	
 	}
 }

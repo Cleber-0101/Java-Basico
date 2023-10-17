@@ -8,10 +8,10 @@ public class PrimeiraAula {
 	public static void main(String[] args) {
 	  Scanner leitoDeTexto =  new Scanner(System.in);
 	  
-	  	int idade ;
+	  	int idade = 00 ;
 	  	idade = leitoDeTexto.nextInt();
 	  	
-	  	System.out.println("Idade lida : " + idade + "anos de idade");
+	  	System.out.println("Idade lida : " + idade);
 	
 	}
 }
