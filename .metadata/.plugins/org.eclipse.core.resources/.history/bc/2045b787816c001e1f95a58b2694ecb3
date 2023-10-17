@@ -1,0 +1,10 @@
+package PrimeiraAula;
+
+public class PrimeiraAula {
+
+	
+	public static void main(String[] args) {
+	  int a = 6000;
+	  System.out.println( "O valor que eu vou receber é de " + a  + " reais como desenvolvedor");
+	}
+}

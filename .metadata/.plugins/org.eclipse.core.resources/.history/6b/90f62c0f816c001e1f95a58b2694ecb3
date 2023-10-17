@@ -1,0 +1,10 @@
+package PrimeiraAula;
+
+public class PrimeiraAula {
+
+	
+	public static void main(String[] args) {
+	  String a = "Eu vou receber um salario de 6000 em nome de Jesus";
+	  System.out.println(a + "O valor que eu vou receber é de 6.000 reais como desenvolvedor");
+	}
+}
